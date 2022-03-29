@@ -4,4 +4,4 @@ function e(e,t){const n=Object.create(null),r=e.split(",");for(let o=0;o<r.lengt
     Version 1.10.0
     https://localforage.github.io/localForage
     (c) 2013-2017 Mozilla, Apache License 2.0
-*/export{xr as F,Ro as T,Ur as a,Wr as b,Rr as c,bn as d,Jt as e,Tr as f,Xr as g,zr as h,ht as i,Rn as j,$r as k,Jo as l,wr as m,c as n,kr as o,Xt as p,Ko as q,Qr as r,a as t,gt as u,Yt as w};
+*/export{xr as F,Ro as T,Ur as a,Wr as b,Rr as c,bn as d,Jt as e,Tr as f,Xr as g,zr as h,ht as i,Rn as j,$r as k,Jo as l,wr as m,c as n,kr as o,Xt as p,r as q,Qr as r,Ko as s,a as t,gt as u,Yt as w};
